@@ -118,7 +118,7 @@ color:hsl(333, 80%, 67%);
     margin-top: 0.5rem;
 }
 
-@media screen and (max-width:375px){
+@media screen and (min-width:375px) and (max-width:600px){
     .mainContainer{
      margin: 0 1rem 0 1rem;
  }
